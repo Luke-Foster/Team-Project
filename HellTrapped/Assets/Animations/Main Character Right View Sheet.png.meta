@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 5233bff3b80b92a4185da059fa102e03
+timeCreated: 1495715787
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Main Character Right View Sheet_0
+    21300002: Main Character Right View Sheet_1
+    21300004: Main Character Right View Sheet_2
+    21300006: Main Character Right View Sheet_3
+    21300008: Main Character Right View Sheet_4
+    21300010: Main Character Right View Sheet_5
+    21300012: Main Character Right View Sheet_6
+    21300014: Main Character Right View Sheet_7
+    21300016: Main Character Right View Sheet_8
+    21300018: Main Character Right View Sheet_9
+    21300020: Main Character Right View Sheet_10
+    21300022: Main Character Right View Sheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Main Character Right View Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 385
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 61.5}
+        - {x: -43, y: 1.5}
+        - {x: -23, y: -61.5}
+        - {x: 19, y: -61.5}
+        - {x: 43, y: -54.5}
+        - {x: 43, y: 61.5}
+    - name: Main Character Right View Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 385
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 61.5}
+        - {x: -43, y: 61.5}
+        - {x: -43, y: 8.5}
+        - {x: -18, y: -61.5}
+        - {x: 35, y: -61.5}
+        - {x: 43, y: -49.5}
+        - {x: 43, y: 22.5}
+        - {x: 31, y: 43.5}
+    - name: Main Character Right View Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 385
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 61.5}
+        - {x: -43, y: 53.5}
+        - {x: -43, y: 11.5}
+        - {x: -21, y: -61.5}
+        - {x: 21, y: -61.5}
+        - {x: 43, y: -43.5}
+        - {x: 43, y: 32.5}
+        - {x: 19, y: 61.5}
+    - name: Main Character Right View Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 257
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 61.5}
+        - {x: -43, y: -23.5}
+        - {x: -39, y: -56.5}
+        - {x: -29, y: -61.5}
+        - {x: 19, y: -61.5}
+        - {x: 43, y: -53.5}
+        - {x: 43, y: 61.5}
+    - name: Main Character Right View Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 257
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 61.5}
+        - {x: -43, y: 55.5}
+        - {x: -43, y: -12.5}
+        - {x: -35, y: -61.5}
+        - {x: 20, y: -61.5}
+        - {x: 43, y: -54.5}
+        - {x: 43, y: 61.5}
+    - name: Main Character Right View Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 257
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 0.5}
+        - {x: -29, y: -61.5}
+        - {x: 27, y: -61.5}
+        - {x: 43, y: -54.5}
+        - {x: 43, y: 23.5}
+        - {x: 29, y: 56.5}
+        - {x: 12, y: 61.5}
+        - {x: -40, y: 61.5}
+        - {x: -43, y: 55.5}
+    - name: Main Character Right View Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 129
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 61.5}
+        - {x: -43, y: 1.5}
+        - {x: -23, y: -61.5}
+        - {x: 19, y: -61.5}
+        - {x: 43, y: -54.5}
+        - {x: 43, y: 61.5}
+    - name: Main Character Right View Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 129
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 61.5}
+        - {x: -43, y: 61.5}
+        - {x: -43, y: 8.5}
+        - {x: -18, y: -61.5}
+        - {x: 35, y: -61.5}
+        - {x: 43, y: -49.5}
+        - {x: 43, y: 22.5}
+        - {x: 31, y: 43.5}
+    - name: Main Character Right View Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 129
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 61.5}
+        - {x: -43, y: 53.5}
+        - {x: -43, y: 11.5}
+        - {x: -21, y: -61.5}
+        - {x: 21, y: -61.5}
+        - {x: 43, y: -43.5}
+        - {x: 43, y: 32.5}
+        - {x: 19, y: 61.5}
+    - name: Main Character Right View Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 61.5}
+        - {x: -43, y: -33.5}
+        - {x: -39, y: -56.5}
+        - {x: -30, y: -61.5}
+        - {x: 43, y: -61.5}
+        - {x: 43, y: 61.5}
+    - name: Main Character Right View Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 61.5}
+        - {x: -43, y: 55.5}
+        - {x: -43, y: -12.5}
+        - {x: -35, y: -61.5}
+        - {x: 20, y: -61.5}
+        - {x: 43, y: -54.5}
+        - {x: 43, y: 61.5}
+    - name: Main Character Right View Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 0.5}
+        - {x: -29, y: -61.5}
+        - {x: 27, y: -61.5}
+        - {x: 43, y: -54.5}
+        - {x: 43, y: 23.5}
+        - {x: 29, y: 56.5}
+        - {x: 12, y: 61.5}
+        - {x: -40, y: 61.5}
+        - {x: -43, y: 55.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
